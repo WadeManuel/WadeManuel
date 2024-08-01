@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esmanuel Pileta Alayo</h1>
-<h3 align="center">A passionate frontend developer from Cuba</h3>
+<h3 align="center">A passionate programmer from Cuba</h3>
+<h3 align="center">I'am Computer Engineering Student</h3>
 
 - 💬 Ask me about **html,css,javascript,java,python,Django,SpreentBoot**
 
