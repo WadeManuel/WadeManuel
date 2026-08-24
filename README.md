@@ -12,8 +12,10 @@
 - 🚀 Me apasiona crear soluciones que agilizan procesos reales: recursos humanos, comercio electrónico y gestión de datos.
 
 ## 💼 Experiencia
-- **Desarrollador de software** — Empresa de remesas Brasil ↔ Cuba, Santiago de Cuba
+- **Desarrollador de software** — Empresa de remesas Brasil ↔ Cuba, Santiago de Cuba *(actual)*
   - Sistemas internos de gestión, automatización de procesos y aplicaciones web.
+- **Especialista en Ciencias Informáticas** — ONAT (Oficina Nacional de Administración Tributaria), Santiago de Cuba *(1 año)*
+  - Soporte y desarrollo de soluciones informáticas para la gestión tributaria.
 
 ## 🛠 Tecnologías
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
